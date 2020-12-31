@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_Authorization_Example", "JWT_Authorization_Example\JWT_Authorization_Example.csproj", "{F047FC35-1081-4024-8D52-77E7D8C1C523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F047FC35-1081-4024-8D52-77E7D8C1C523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F047FC35-1081-4024-8D52-77E7D8C1C523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F047FC35-1081-4024-8D52-77E7D8C1C523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F047FC35-1081-4024-8D52-77E7D8C1C523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4865EBE2-2C56-4741-99AF-50165598B279}
+	EndGlobalSection
+EndGlobal
